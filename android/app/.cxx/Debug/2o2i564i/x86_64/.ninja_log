@@ -1,0 +1,9 @@
+# ninja log v5
+1	2746	759783730	CMakeFiles/task_manager.dir/task_manager.cpp.o	4d30d65f1a53addc
+2759	2976	759783731	C:/Users/HP/AndroidStudioProjects/task_manager/build/app/intermediates/cxx/Debug/2o2i564i/obj/x86_64/libtask_manager.so	cf9fcfa91a883f52
+26	1566	759797136	C:/Users/HP/AndroidStudioProjects/task_manager/build/app/intermediates/cxx/Debug/2o2i564i/obj/x86_64/libtask_manager.so	cf9fcfa91a883f52
+22	583	760297993	C:/Users/HP/AndroidStudioProjects/task_manager/build/app/intermediates/cxx/Debug/2o2i564i/obj/x86_64/libtask_manager.so	cf9fcfa91a883f52
+16	2900	760362362	CMakeFiles/task_manager.dir/task_manager.cpp.o	4d30d65f1a53addc
+2900	3359	760362363	C:/Users/HP/AndroidStudioProjects/task_manager/build/app/intermediates/cxx/Debug/2o2i564i/obj/x86_64/libtask_manager.so	cf9fcfa91a883f52
+204	3026	760736133	C:/Users/HP/AndroidStudioProjects/task_manager/build/app/intermediates/cxx/Debug/2o2i564i/obj/x86_64/libtask_manager.so	cf9fcfa91a883f52
+22	589	760781802	C:/Users/HP/AndroidStudioProjects/task_manager/build/app/intermediates/cxx/Debug/2o2i564i/obj/x86_64/libtask_manager.so	cf9fcfa91a883f52

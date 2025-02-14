@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "C:\\Users\\HP\\AndroidStudioProjects\\task_manager\\android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\HP\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\HP\\AndroidStudioProjects\\task_manager\\android\\app\\.cxx\\Debug\\2o2i564i\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\HP\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\HP\\AndroidStudioProjects\\task_manager\\android\\app\\.cxx\\Debug\\2o2i564i\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "task_manager::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "task_manager",
+      "output": "C:\\Users\\HP\\AndroidStudioProjects\\task_manager\\build\\app\\intermediates\\cxx\\Debug\\2o2i564i\\obj\\x86\\libtask_manager.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\HP\\AppData\\Local\\Android\\Sdk\\ndk\\28.0.12916984\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\HP\\AppData\\Local\\Android\\Sdk\\ndk\\28.0.12916984\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
